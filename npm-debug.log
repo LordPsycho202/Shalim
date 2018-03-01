@@ -1,0 +1,29 @@
+15360 info postinstall process-nextick-args@1.0.7
+15361 silly gunzTarPerm extractEntry lib/util.js
+15362 silly gunzTarPerm extractEntry .travis.yml
+15363 silly gunzTarPerm extractEntry Makefile
+15364 verbose linkBins util-deprecate@1.0.2
+15365 verbose linkMans util-deprecate@1.0.2
+15366 verbose rebuildBundles util-deprecate@1.0.2
+15367 info install util-deprecate@1.0.2
+15368 silly gunzTarPerm extractEntry package.json
+15369 info postinstall util-deprecate@1.0.2
+15370 error Error: ENOENT, lstat '/root/tmp/npm-20570-jF5c0WXC/1501592417023-0.20538960094563663/package/docs/scripts/jquery-1.7.2.min.js'
+15371 error If you need help, you may report this log at:
+15371 error     <http://github.com/isaacs/npm/issues>
+15371 error or email it to:
+15371 error     <npm-@googlegroups.com>
+15372 error System Linux 2.6.32-042stab093.5
+15373 error command "node" "/usr/bin/npm" "install" "discord.js"
+15374 error cwd /opt/paxbot
+15375 error node -v v0.10.48
+15376 error npm -v 1.3.6
+15377 error path /root/tmp/npm-20570-jF5c0WXC/1501592417023-0.20538960094563663/package/docs/scripts/jquery-1.7.2.min.js
+15378 error fstream_path /root/tmp/npm-20570-jF5c0WXC/1501592417023-0.20538960094563663/package/docs/scripts/jquery-1.7.2.min.js
+15379 error fstream_type File
+15380 error fstream_class FileWriter
+15381 error code ENOENT
+15382 error errno 34
+15383 error fstream_stack /usr/lib/node_modules/fstream/lib/writer.js:284:26
+15383 error fstream_stack Object.oncomplete (fs.js:108:15)
+15384 verbose exit [ 34, true ]
