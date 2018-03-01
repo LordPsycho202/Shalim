@@ -1,8 +1,8 @@
 {
-	"discordToken":"MzQxOTI0ODQ4Nzg5ODgwODMz.DGIJ5A.dJ7At8wU0hrhE2QGz_xg2UGoW6o",
-	"openweatherToken":"c7ab7f4fcaec8621d14551de4e626bf6",
-	"googleapiToken":"AIzaSyA97HIlJF3enKuflGbTBrJZHEiLfSi1dHo",
-	"randomorgapiToken":"65e13ff3-7d2f-4818-8f43-727dc9d9c7e4",
+	"discordToken":"",
+	"openweatherToken":"",
+	"googleapiToken":"",
+	"randomorgapiToken":"",
 	"prefix":"@",
 	"loglevel":"debug",
 	"insanity":"true"
